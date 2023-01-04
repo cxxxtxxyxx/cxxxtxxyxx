@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=✨Hello Dev✨&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=✨HelloDev✨&fontSize=90&animation=fadeIn)
 
 
 # _Taeyun Choi_
