@@ -46,6 +46,7 @@
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmffjq0)](https://solved.ac/zmffjq0)
 ---
+ ![Snake animation](https://github.com/cxxxtxxyxx/cxxxtxxyxx/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **cxxxtxxyxx/cxxxtxxyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
