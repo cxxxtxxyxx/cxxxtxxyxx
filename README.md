@@ -46,8 +46,6 @@
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmffjq0)](https://solved.ac/zmffjq0)
 ---
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <!--
 **cxxxtxxyxx/cxxxtxxyxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
