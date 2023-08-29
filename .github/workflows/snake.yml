@@ -31,6 +31,9 @@ jobs:
 
       # 변경사항 push
       - name: Push changes
+        permissions: 
+          contents: write
+
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -43,5 +46,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-permissions: 
-  contents: write
