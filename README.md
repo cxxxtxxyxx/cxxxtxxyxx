@@ -51,7 +51,7 @@
 ![snake gif](https://github.com/cxxxtxxyxx/cxxxtxxyxx/blob/output/github-contribution-grid-snake.svg)
 -->
 <a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=cxxxtxxyxx&desert" width="600px" />
+  <img alt="commitmon" src="https://commitmon.me/adventure?username=cxxxtxxyxx&theme=desert" width="600px" />
 </a>
  
 <!--
