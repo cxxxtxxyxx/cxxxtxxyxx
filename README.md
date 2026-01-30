@@ -1,11 +1,17 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=✨HelloDev✨&fontSize=60&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=✨HelloDev✨&fontSize=60&animation=fadeIn) -->
+
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBooOHw)](https://www.git-ranker.com/users/cxxxtxxyxx)
 
 
+<!--
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcxxxtxxyxx&count_bg=%23FFC85F&title_bg=%23FF6363&icon=baidu.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://github.com/cxxxtxxyxx)
+
  
  <strong>_Taeyun Choi_</strong>
+
+ -->
 <!-- 
 ### 📧Email📧
 
@@ -40,16 +46,19 @@
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white&"/> -->
 <!-- <img alt="SpringSecurity" src="https://img.shields.io/badge/Spring_Security-6DB33F.svg?&style=for-the-badge&logo=SpringSecurity&logoColor=white&"/> -->
 
+<!-- 
 ## ✨Stats✨
+
+-->
 [![cxxxtxxyxx's github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cxxxtxxyxx&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cxxxtxxyxx)
 ![cxxxtxxyxx's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=cxxxtxxyxx&show_icons=true)
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmffjq0)](https://solved.ac/zmffjq0)
 ---
 
+
  <!--
 ![snake gif](https://github.com/cxxxtxxyxx/cxxxtxxyxx/blob/output/github-contribution-grid-snake.svg)
--->
 <a href="https://github.com/doongjun/commitmon">
   <img alt="commitmon" src="https://commitmon.me/adventure?username=cxxxtxxyxx&theme=desert" width="600px" />
 </a>
