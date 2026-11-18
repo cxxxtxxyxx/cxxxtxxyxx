@@ -50,15 +50,14 @@
 ## ✨Stats✨
 
 -->
+<!--
 [![cxxxtxxyxx's github stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cxxxtxxyxx&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cxxxtxxyxx)
 ![cxxxtxxyxx's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=cxxxtxxyxx&show_icons=true)
----
+-->
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zmffjq0)](https://solved.ac/zmffjq0)
 -->
----
-
 
  <!--
 ![snake gif](https://github.com/cxxxtxxyxx/cxxxtxxyxx/blob/output/github-contribution-grid-snake.svg)
